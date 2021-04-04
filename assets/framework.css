@@ -21,7 +21,7 @@
 }
 
 .dgb [class*="col-"]{
-    background-color:rosybrown;
+    background-color:rgb(219, 191, 191);
     border: 1px solid black;
     height: 100%;
 }

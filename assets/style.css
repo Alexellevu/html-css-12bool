@@ -1,10 +1,38 @@
 .altezza{
     height: 200px;
-  
 }
 
 .row div{
     text-align: center;
-    padding:80px 0 0 0 ;
+    line-height: 170px;
+}
+
+.last_row{
+    width: 50%;
+    float: left;
+    margin:0;
     
 }
+
+.dgb2{
+    border: none;
+    background-color:rgb(219, 191, 191);;
+    border:1px solid black;
+}
+
+
+.contenuto{
+    width: 95%;
+    height: 160px;
+    background-color:rgb(204, 103, 103);
+    margin: 5px 1px;
+}
+
+
+
+
+
+
+
+
+
