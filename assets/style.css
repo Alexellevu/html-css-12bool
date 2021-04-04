@@ -10,7 +10,10 @@
 .last_row{
     width: 50%;
     float: left;
-    margin:0;
+    margin: auto;
+    padding-left: 2px;
+    padding-top: 4px;
+  
     
 }
 
@@ -22,11 +25,16 @@
 
 
 .contenuto{
-    width: 95%;
+    width: 97%;
     height: 160px;
     background-color:rgb(204, 103, 103);
-    margin: 5px 1px;
+    
+    display: inline-block;
+
 }
+
+
+
 
 
 
